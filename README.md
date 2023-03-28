@@ -1,4 +1,4 @@
-# QRCoder
+# QRCode
 
 |Build|Code coverage|Build status|
 |-----|-------------|------------|
