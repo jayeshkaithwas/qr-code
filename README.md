@@ -13,8 +13,7 @@ QRCoder is a simple library, written in HTML,CSS and Java, which enables you to 
 Feel free to grab-up/fork the project and make it better!
 
 For more information see:
-[**QRCode Wiki**](https://github.com/codebude/QRCoder/wiki) | [Creator's blog (english)](http://en.code-bude.net/2013/10/17/qrcoder-an-open-source-qr-code-generator-implementation-in-csharp/) | [Creator's blog (german)](http://code-bude.net/2013/10/17/qrcoder-eine-open-source-qr-code-implementierung-in-csharp/)
-
+[**QRCode Wiki**](https://github.com/codebude/QRCoder/wiki) 
 
 ## Legal information and credits
 
